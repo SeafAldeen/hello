@@ -50,7 +50,12 @@ body {
   z-index : 10 ;
 }
 
+.navbar img {
+  padding-top : 10px ;
+  padding-left : 5px ;
+  cursor:pointer ;
 
+} 
 
 
 .header .side-nav {
